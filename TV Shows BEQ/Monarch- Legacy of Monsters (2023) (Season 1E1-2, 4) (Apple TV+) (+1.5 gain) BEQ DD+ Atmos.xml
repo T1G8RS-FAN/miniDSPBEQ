@@ -803,57 +803,57 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>20.0</freq>
-    <q>0.8</q>
+    <q>0.9</q>
     <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0001805654421043,-1.9987139331745987,0.9985355610336557,1.998714361376187,-0.998715698274172,</dec>
+    <hex>0x3f8005eb,0xbfffd5dc,0x3f7fa007,0x3fffd5df,0xbf7fabd5,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>20.0</freq>
-    <q>0.8</q>
+    <q>0.9</q>
     <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0001805654421043,-1.9987139331745987,0.9985355610336557,1.998714361376187,-0.998715698274172,</dec>
+    <hex>0x3f8005eb,0xbfffd5dc,0x3f7fa007,0x3fffd5df,0xbf7fabd5,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>20.0</freq>
-    <q>0.8</q>
+    <q>0.9</q>
     <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0001805654421043,-1.9987139331745987,0.9985355610336557,1.998714361376187,-0.998715698274172,</dec>
+    <hex>0x3f8005eb,0xbfffd5dc,0x3f7fa007,0x3fffd5df,0xbf7fabd5,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>20.0</freq>
-    <q>0.8</q>
+    <q>0.9</q>
     <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0001805654421043,-1.9987139331745987,0.9985355610336557,1.998714361376187,-0.998715698274172,</dec>
+    <hex>0x3f8005eb,0xbfffd5dc,0x3f7fa007,0x3fffd5df,0xbf7fabd5,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>20.0</freq>
-    <q>0.8</q>
+    <q>0.9</q>
     <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0001805654421043,-1.9987139331745987,0.9985355610336557,1.998714361376187,-0.998715698274172,</dec>
+    <hex>0x3f8005eb,0xbfffd5dc,0x3f7fa007,0x3fffd5df,0xbf7fabd5,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>59.0</freq>
-    <q>0.8</q>
-    <boost>0.3</boost>
+    <freq>50.0</freq>
+    <q>0.9</q>
+    <boost>0.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000831647207598,-1.9952520792285446,0.9951837906995685,1.9952520792285446,-0.9952669554203283,</dec>
-    <hex>0x3f8002ba,0xbfff646c,0x3f7ec45d,0x3fff646c,0xbf7ec9d1,</hex>
+    <dec>1.0001672172805574,-1.9965228830167496,0.9963663563714789,1.9965228830167496,-0.9965335736520361,</dec>
+    <hex>0x3f80057b,0xbfff8e10,0x3f7f11de,0x3fff8e10,0xbf7f1cd3,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -893,57 +893,57 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>20.0</freq>
-    <q>0.8</q>
+    <q>0.9</q>
     <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0001805654421043,-1.9987139331745987,0.9985355610336557,1.998714361376187,-0.998715698274172,</dec>
+    <hex>0x3f8005eb,0xbfffd5dc,0x3f7fa007,0x3fffd5df,0xbf7fabd5,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>20.0</freq>
-    <q>0.8</q>
+    <q>0.9</q>
     <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0001805654421043,-1.9987139331745987,0.9985355610336557,1.998714361376187,-0.998715698274172,</dec>
+    <hex>0x3f8005eb,0xbfffd5dc,0x3f7fa007,0x3fffd5df,0xbf7fabd5,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>20.0</freq>
-    <q>0.8</q>
+    <q>0.9</q>
     <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0001805654421043,-1.9987139331745987,0.9985355610336557,1.998714361376187,-0.998715698274172,</dec>
+    <hex>0x3f8005eb,0xbfffd5dc,0x3f7fa007,0x3fffd5df,0xbf7fabd5,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>20.0</freq>
-    <q>0.8</q>
+    <q>0.9</q>
     <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0001805654421043,-1.9987139331745987,0.9985355610336557,1.998714361376187,-0.998715698274172,</dec>
+    <hex>0x3f8005eb,0xbfffd5dc,0x3f7fa007,0x3fffd5df,0xbf7fabd5,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>20.0</freq>
-    <q>0.8</q>
+    <q>0.9</q>
     <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0001805654421043,-1.9987139331745987,0.9985355610336557,1.998714361376187,-0.998715698274172,</dec>
+    <hex>0x3f8005eb,0xbfffd5dc,0x3f7fa007,0x3fffd5df,0xbf7fabd5,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>59.0</freq>
-    <q>0.8</q>
-    <boost>0.3</boost>
+    <freq>50.0</freq>
+    <q>0.9</q>
+    <boost>0.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000831647207598,-1.9952520792285446,0.9951837906995685,1.9952520792285446,-0.9952669554203283,</dec>
-    <hex>0x3f8002ba,0xbfff646c,0x3f7ec45d,0x3fff646c,0xbf7ec9d1,</hex>
+    <dec>1.0001672172805574,-1.9965228830167496,0.9963663563714789,1.9965228830167496,-0.9965335736520361,</dec>
+    <hex>0x3f80057b,0xbfff8e10,0x3f7f11de,0x3fff8e10,0xbf7f1cd3,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Monarch: Legacy of Monsters</beq_title><beq_alt_title /><beq_sortTitle>monarch: legacy of monsters</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Monarch%20LOM%20S01E01-2%2C%204%20(%2B1.5)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>1E1-2, 4</beq_season><beq_note>+5dB Dialnorm Compensation</beq_note><beq_warning /><beq_gain>+1.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Apple TV+</beq_source><beq_overview>After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.</beq_overview><beq_rating>TV-14</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62957349</beq_avs><beq_theMovieDB>202411</beq_theMovieDB><beq_poster>/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Monarch: Legacy of Monsters</beq_title><beq_alt_title /><beq_sortTitle>monarch: legacy of monsters</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Monarch%20LOM%20S01E01-2%2C%204%2C%208%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>1E1-2, 4, 8</beq_season><beq_note>+5dB Dialnorm Compensation</beq_note><beq_warning /><beq_gain>+1.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Apple TV+</beq_source><beq_overview>After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.</beq_overview><beq_rating>TV-14</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62957349</beq_avs><beq_theMovieDB>202411</beq_theMovieDB><beq_poster>/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10759">Action &amp; Adventure</genre><genre id="18">Drama</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
