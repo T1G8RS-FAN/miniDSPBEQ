@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>5.2</boost>
+    <freq>11.0</freq>
+    <q>1.0</q>
+    <boost>6.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001229263042728,-1.999295401620287,0.9991730529654266,1.999295531724012,-0.9992958491659746,</dec>
-    <hex>0x3f800407,0xbfffe8e9,0x3f7fc9ce,0x3fffe8ea,0xbf7fd1da,</hex>
+    <dec>1.000131320402363,-1.9993990747140795,0.9992684989961069,1.9993992667784726,-0.9993996273340771,</dec>
+    <hex>0x3f80044e,0xbfffec4f,0x3f7fd00f,0x3fffec51,0xbf7fd8a7,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
+    <freq>21.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
+    <freq>21.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
+    <freq>21.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
+    <freq>21.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>60.0</freq>
     <q>0.7</q>
-    <boost>0.2</boost>
+    <boost>0.3</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000644100205258,-1.9944542009473016,0.9944051695208722,1.9944542009473016,-0.994469579541398,</dec>
-    <hex>0x3f80021c,0xbfff4a46,0x3f7e9156,0x3fff4a46,0xbf7e958f,</hex>
+    <dec>1.00009661923227,-1.9944858576307116,0.9944046172366324,1.9944858576307116,-0.9945012364689025,</dec>
+    <hex>0x3f80032b,0xbfff4b50,0x3f7e914d,0x3fff4b50,0xbf7e97a2,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>5.2</boost>
+    <freq>11.0</freq>
+    <q>1.0</q>
+    <boost>6.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001229263042728,-1.999295401620287,0.9991730529654266,1.999295531724012,-0.9992958491659746,</dec>
-    <hex>0x3f800407,0xbfffe8e9,0x3f7fc9ce,0x3fffe8ea,0xbf7fd1da,</hex>
+    <dec>1.000131320402363,-1.9993990747140795,0.9992684989961069,1.9993992667784726,-0.9993996273340771,</dec>
+    <hex>0x3f80044e,0xbfffec4f,0x3f7fd00f,0x3fffec51,0xbf7fd8a7,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
+    <freq>21.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
+    <freq>21.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
+    <freq>21.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
+    <freq>21.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
-    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
+    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>60.0</freq>
     <q>0.7</q>
-    <boost>0.2</boost>
+    <boost>0.3</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000644100205258,-1.9944542009473016,0.9944051695208722,1.9944542009473016,-0.994469579541398,</dec>
-    <hex>0x3f80021c,0xbfff4a46,0x3f7e9156,0x3fff4a46,0xbf7e958f,</hex>
+    <dec>1.00009661923227,-1.9944858576307116,0.9944046172366324,1.9944858576307116,-0.9945012364689025,</dec>
+    <hex>0x3f80032b,0xbfff4b50,0x3f7e914d,0x3fff4b50,0xbf7e97a2,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Aquaman and the Lost Kingdom</beq_title><beq_alt_title /><beq_sortTitle>aquaman and the lost kingdom</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Aquaman%20atLK%20(2023)%20DD%2B%20Atmos.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Aquaman%20atLK%20(2023)%20(-0.5%20gain)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>+7dB Dialnorm Compensation</beq_note><beq_warning /><beq_gain>-0.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Black Manta, still driven by the need to avenge his father's death and wielding the power of the mythic Black Trident, will stop at nothing to take Aquaman down once and for all. To defeat him, Aquaman must turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance in order to save the world from irreversible destruction.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63102828</beq_avs><beq_theMovieDB>572802</beq_theMovieDB><beq_poster>/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg</beq_poster><beq_runtime>124</beq_runtime><beq_collection id="573693">Aquaman Collection</beq_collection><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="12">Adventure</genre><genre id="14">Fantasy</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Aquaman and the Lost Kingdom</beq_title><beq_alt_title /><beq_sortTitle>aquaman and the lost kingdom</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Aquaman%20atLK%20(2023)%20DD%2B%20Atmos.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Aquaman%20atLK%20(2023)%20(-0.5%20gain)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>+7dB Dialnorm Compensation​</beq_note><beq_warning /><beq_gain>-0.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Black Manta, still driven by the need to avenge his father's death and wielding the power of the mythic Black Trident, will stop at nothing to take Aquaman down once and for all. To defeat him, Aquaman must turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance in order to save the world from irreversible destruction.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63102828</beq_avs><beq_theMovieDB>572802</beq_theMovieDB><beq_poster>/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg</beq_poster><beq_runtime>124</beq_runtime><beq_collection id="573693">Aquaman Collection</beq_collection><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="12">Adventure</genre><genre id="14">Fantasy</genre></beq_genres></beq_metadata></setting>
