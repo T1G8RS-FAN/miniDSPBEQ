@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>22.0</freq>
+    <freq>10.0</freq>
     <q>1.0</q>
-    <boost>4.8</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001997273098333,-1.9987445370196237,0.998547541141665,1.9987451168480674,-0.9987466886230543,</dec>
-    <hex>0x3f80068b,0xbfffd6dc,0x3f7fa0d0,0x3fffd6e1,0xbf7faddd,</hex>
+    <dec>1.0000641745516823,-1.9994062561396073,0.9993426024088318,1.9994063404909863,-0.9994066926091347,</dec>
+    <hex>0x3f80021a,0xbfffec8b,0x3f7fd4eb,0x3fffec8c,0xbf7fd91e,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>22.0</freq>
-    <q>1.0</q>
-    <boost>4.8</boost>
+    <q>1.1</q>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001997273098333,-1.9987445370196237,0.998547541141665,1.9987451168480674,-0.9987466886230543,</dec>
-    <hex>0x3f80068b,0xbfffd6dc,0x3f7fa0d0,0x3fffd6e1,0xbf7faddd,</hex>
+    <dec>1.0001930377785295,-1.9988681898471172,0.9986779312522324,1.9988688069589298,-0.9988703519189496,</dec>
+    <hex>0x3f800653,0xbfffdaea,0x3f7fa95b,0x3fffdaef,0xbf7fb5f8,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>22.0</freq>
-    <q>1.0</q>
-    <boost>4.8</boost>
+    <q>1.1</q>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001997273098333,-1.9987445370196237,0.998547541141665,1.9987451168480674,-0.9987466886230543,</dec>
-    <hex>0x3f80068b,0xbfffd6dc,0x3f7fa0d0,0x3fffd6e1,0xbf7faddd,</hex>
+    <dec>1.0001930377785295,-1.9988681898471172,0.9986779312522324,1.9988688069589298,-0.9988703519189496,</dec>
+    <hex>0x3f800653,0xbfffdaea,0x3f7fa95b,0x3fffdaef,0xbf7fb5f8,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>65.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005463614585066,-1.995777439074269,0.9952538144440025,1.995781634504005,-0.9957959804727736,</dec>
-    <hex>0x3f8011e7,0xbfff75a3,0x3f7ec8f4,0x3fff75c6,0xbf7eec7c,</hex>
+    <dec>1.0003686476545295,-1.9960869627827946,0.9957397834004005,1.996090097732484,-0.9961052961052407,</dec>
+    <hex>0x3f800c14,0xbfff7fc7,0x3f7ee8cd,0x3fff7fe1,0xbf7f00c2,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>130.0</freq>
+    <freq>114.0</freq>
     <q>0.7</q>
-    <boost>0.3</boost>
+    <boost>0.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000208670360358,-1.9880522537786123,0.987915547348697,1.9880522537786123,-0.988124217709055,</dec>
-    <hex>0x3f8006d6,0xbffe787f,0x3f7ce809,0x3ffe787f,0xbf7cf5b5,</hex>
+    <dec>1.0002441796635986,-1.9895823354898317,0.9893935378686746,1.9895823354898317,-0.9896377175322733,</dec>
+    <hex>0x3f800800,0xbffeaaa2,0x3f7d48e5,0x3ffeaaa2,0xbf7d58e6,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>22.0</freq>
+    <freq>10.0</freq>
     <q>1.0</q>
-    <boost>4.8</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001997273098333,-1.9987445370196237,0.998547541141665,1.9987451168480674,-0.9987466886230543,</dec>
-    <hex>0x3f80068b,0xbfffd6dc,0x3f7fa0d0,0x3fffd6e1,0xbf7faddd,</hex>
+    <dec>1.0000641745516823,-1.9994062561396073,0.9993426024088318,1.9994063404909863,-0.9994066926091347,</dec>
+    <hex>0x3f80021a,0xbfffec8b,0x3f7fd4eb,0x3fffec8c,0xbf7fd91e,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>22.0</freq>
-    <q>1.0</q>
-    <boost>4.8</boost>
+    <q>1.1</q>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001997273098333,-1.9987445370196237,0.998547541141665,1.9987451168480674,-0.9987466886230543,</dec>
-    <hex>0x3f80068b,0xbfffd6dc,0x3f7fa0d0,0x3fffd6e1,0xbf7faddd,</hex>
+    <dec>1.0001930377785295,-1.9988681898471172,0.9986779312522324,1.9988688069589298,-0.9988703519189496,</dec>
+    <hex>0x3f800653,0xbfffdaea,0x3f7fa95b,0x3fffdaef,0xbf7fb5f8,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>22.0</freq>
-    <q>1.0</q>
-    <boost>4.8</boost>
+    <q>1.1</q>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001997273098333,-1.9987445370196237,0.998547541141665,1.9987451168480674,-0.9987466886230543,</dec>
-    <hex>0x3f80068b,0xbfffd6dc,0x3f7fa0d0,0x3fffd6e1,0xbf7faddd,</hex>
+    <dec>1.0001930377785295,-1.9988681898471172,0.9986779312522324,1.9988688069589298,-0.9988703519189496,</dec>
+    <hex>0x3f800653,0xbfffdaea,0x3f7fa95b,0x3fffdaef,0xbf7fb5f8,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>65.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005463614585066,-1.995777439074269,0.9952538144440025,1.995781634504005,-0.9957959804727736,</dec>
-    <hex>0x3f8011e7,0xbfff75a3,0x3f7ec8f4,0x3fff75c6,0xbf7eec7c,</hex>
+    <dec>1.0003686476545295,-1.9960869627827946,0.9957397834004005,1.996090097732484,-0.9961052961052407,</dec>
+    <hex>0x3f800c14,0xbfff7fc7,0x3f7ee8cd,0x3fff7fe1,0xbf7f00c2,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>130.0</freq>
+    <freq>114.0</freq>
     <q>0.7</q>
-    <boost>0.3</boost>
+    <boost>0.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000208670360358,-1.9880522537786123,0.987915547348697,1.9880522537786123,-0.988124217709055,</dec>
-    <hex>0x3f8006d6,0xbffe787f,0x3f7ce809,0x3ffe787f,0xbf7cf5b5,</hex>
+    <dec>1.0002441796635986,-1.9895823354898317,0.9893935378686746,1.9895823354898317,-0.9896377175322733,</dec>
+    <hex>0x3f800800,0xbffeaaa2,0x3f7d48e5,0x3ffeaaa2,0xbf7d58e6,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Assassin's Creed</beq_title><beq_alt_title /><beq_sortTitle>assassin's creed</beq_sortTitle><beq_year>2016</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Assassins%20Creed%20(2016)%20Atmos%20DTS-HD%20MA%207.1.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Assassins%20Creed%20(2016)%20(-4.5%20gain)%20Atmos%20DTS-HD%20MA%207.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>-4.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Through unlocked genetic memories that allow him to relive the adventures of his ancestor in 15th century Spain, Callum Lynch discovers he's a descendant of the secret 'Assassins' society. After gaining incredible knowledge and skills, he is now poised to take on the oppressive Knights Templar in the present day.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63169051</beq_avs><beq_theMovieDB>121856</beq_theMovieDB><beq_poster>/nhiShTvoga8fyGX8468hLj6pCtW.jpg</beq_poster><beq_runtime>116</beq_runtime><beq_collection /><beq_audioTypes><audioType>Atmos</audioType><audioType>DTS-HD MA 7.1</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="12">Adventure</genre><genre id="878">Science Fiction</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Assassin's Creed</beq_title><beq_alt_title /><beq_sortTitle>assassin's creed</beq_sortTitle><beq_year>2016</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Assassins%20Creed%20(2016)%20Atmos.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Assassins%20Creed%20(2016)%20(-4.5%20gain)%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>-4.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Through a technology that unlocks the generic memories of his ancestor in 15th century Spain, Callum Lynch discovers he is a descendant of an ancient line of Assassins and amasses lethal skills to take on the oppressive Templar Order.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/posts/63169051/</beq_avs><beq_theMovieDB>121856</beq_theMovieDB><beq_poster>/ne5LmY2zq2dTG8TDGJOrCB4IbRy.jpg</beq_poster><beq_runtime>116</beq_runtime><beq_collection /><beq_audioTypes><audioType>Atmos</audioType><audioType>DTS-HD MA 7.1</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="12">Adventure</genre><genre id="878">Science Fiction</genre></beq_genres></beq_metadata></setting>
