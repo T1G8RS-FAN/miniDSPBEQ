@@ -840,38 +840,38 @@
   <filter name="PEQ_1_5" addr="8300">
     <freq>33.0</freq>
     <q>1.2</q>
-    <boost>3.1</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001610927004636,-1.998350386288529,0.9981948652882221,1.9983512224837283,-0.9983551217934866,</dec>
-    <hex>0x3f800547,0xbfffc9f2,0x3f7f89b3,0x3fffc9f9,0xbf7f9434,</hex>
+    <dec>1.0001767314868275,-1.9983645014261555,0.9981934387351478,1.9983654195358933,-0.9983692521122379,</dec>
+    <hex>0x3f8005cb,0xbfffca68,0x3f7f899b,0x3fffca70,0xbf7f9521,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>33.0</freq>
     <q>1.2</q>
-    <boost>3.1</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001610927004636,-1.998350386288529,0.9981948652882221,1.9983512224837283,-0.9983551217934866,</dec>
-    <hex>0x3f800547,0xbfffc9f2,0x3f7f89b3,0x3fffc9f9,0xbf7f9434,</hex>
+    <dec>1.0001767314868275,-1.9983645014261555,0.9981934387351478,1.9983654195358933,-0.9983692521122379,</dec>
+    <hex>0x3f8005cb,0xbfffca68,0x3f7f899b,0x3fffca70,0xbf7f9521,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>47.0</freq>
-    <q>0.7</q>
-    <boost>1.7</boost>
+    <freq>50.0</freq>
+    <q>0.8</q>
+    <boost>1.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0004298737342259,-1.9960136683690684,0.9955932384660047,1.9960136683690684,-0.9960231122002305,</dec>
-    <hex>0x3f800e16,0xbfff7d60,0x3f7edf33,0x3fff7d60,0xbf7efb5f,</hex>
+    <dec>1.0003293994767033,-1.9962225404561347,0.9959038300064953,1.9962225404561347,-0.9962332294831988,</dec>
+    <hex>0x3f800acb,0xbfff8438,0x3f7ef38e,0x3fff8438,0xbf7f0924,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
-    <freq>59.0</freq>
-    <q>0.6</q>
-    <boost>-0.3</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>0.9998892133833702,-1.9934585106682434,0.9935841601041764,1.9934585106682434,-0.9934733734875466,</dec>
-    <hex>0x3f7ff8bd,0xbfff29a6,0x3f7e5b88,0x3fff29a6,0xbf7e5445,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_9" addr="8320">
     <freq>1000</freq>
@@ -930,38 +930,38 @@
   <filter name="PEQ_2_5" addr="8350">
     <freq>33.0</freq>
     <q>1.2</q>
-    <boost>3.1</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001610927004636,-1.998350386288529,0.9981948652882221,1.9983512224837283,-0.9983551217934866,</dec>
-    <hex>0x3f800547,0xbfffc9f2,0x3f7f89b3,0x3fffc9f9,0xbf7f9434,</hex>
+    <dec>1.0001767314868275,-1.9983645014261555,0.9981934387351478,1.9983654195358933,-0.9983692521122379,</dec>
+    <hex>0x3f8005cb,0xbfffca68,0x3f7f899b,0x3fffca70,0xbf7f9521,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>33.0</freq>
     <q>1.2</q>
-    <boost>3.1</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001610927004636,-1.998350386288529,0.9981948652882221,1.9983512224837283,-0.9983551217934866,</dec>
-    <hex>0x3f800547,0xbfffc9f2,0x3f7f89b3,0x3fffc9f9,0xbf7f9434,</hex>
+    <dec>1.0001767314868275,-1.9983645014261555,0.9981934387351478,1.9983654195358933,-0.9983692521122379,</dec>
+    <hex>0x3f8005cb,0xbfffca68,0x3f7f899b,0x3fffca70,0xbf7f9521,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>47.0</freq>
-    <q>0.7</q>
-    <boost>1.7</boost>
+    <freq>50.0</freq>
+    <q>0.8</q>
+    <boost>1.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0004298737342259,-1.9960136683690684,0.9955932384660047,1.9960136683690684,-0.9960231122002305,</dec>
-    <hex>0x3f800e16,0xbfff7d60,0x3f7edf33,0x3fff7d60,0xbf7efb5f,</hex>
+    <dec>1.0003293994767033,-1.9962225404561347,0.9959038300064953,1.9962225404561347,-0.9962332294831988,</dec>
+    <hex>0x3f800acb,0xbfff8438,0x3f7ef38e,0x3fff8438,0xbf7f0924,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
-    <freq>59.0</freq>
-    <q>0.6</q>
-    <boost>-0.3</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>0.9998892133833702,-1.9934585106682434,0.9935841601041764,1.9934585106682434,-0.9934733734875466,</dec>
-    <hex>0x3f7ff8bd,0xbfff29a6,0x3f7e5b88,0x3fff29a6,0xbf7e5445,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_9" addr="8370">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Need for Speed</beq_title><beq_alt_title /><beq_sortTitle>need for speed</beq_sortTitle><beq_year>2014</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Need%20for%20Speed%20(2014)%20DTS-HD%20MA%207.1.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Need%20for%20Speed%20(2014)%20(-5%20gain)%20DTS-HD%20MA%207.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>-5.0 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>The film revolves around a local street-racer who partners with a rich and arrogant business associate, only to find himself framed by his colleague and sent to prison. After he gets out, he joins a New York-to-Los Angeles race to get revenge. But when the ex-partner learns of the scheme, he puts a massive bounty on the racer's head, forcing him to run a cross-country gauntlet of illegal racers in all manner of supercharged vehicles.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62618193</beq_avs><beq_theMovieDB>136797</beq_theMovieDB><beq_poster>/z42kyMizgDKetejusZgucSQsQ4l.jpg</beq_poster><beq_runtime>132</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 7.1</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="80">Crime</genre><genre id="18">Drama</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Need for Speed</beq_title><beq_alt_title /><beq_sortTitle>need for speed</beq_sortTitle><beq_year>2014</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Need%20for%20Speed%20(2014)%20DTS-HD%20MA%207.1.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Need%20for%20Speed%20(2014)%20(-5%20gain)%20DTS-HD%20MA%207.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>-5.0 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>The film revolves around a local street-racer who partners with a rich and arrogant business associate, only to find himself framed by his colleague and sent to prison. After he gets out, he joins a New York-to-Los Angeles race to get revenge. But when the ex-partner learns of the scheme, he puts a massive bounty on the racer's head, forcing him to run a cross-country gauntlet of illegal racers in all manner of supercharged vehicles.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/posts/62618193/</beq_avs><beq_theMovieDB>136797</beq_theMovieDB><beq_poster>/z42kyMizgDKetejusZgucSQsQ4l.jpg</beq_poster><beq_runtime>131</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 7.1</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="80">Crime</genre><genre id="18">Drama</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
