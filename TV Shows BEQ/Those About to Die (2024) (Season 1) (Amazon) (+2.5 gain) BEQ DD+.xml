@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>3.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000107344119122,-1.9990380850556784,0.9989316260423764,1.999038231831043,-0.9990388233861337,</dec>
+    <hex>0x3f800384,0xbfffe07b,0x3f7fb9fc,0x3fffe07c,0xbf7fc102,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.000107344119122,-1.9990380850556784,0.9989316260423764,1.999038231831043,-0.9990388233861337,</dec>
+    <hex>0x3f800384,0xbfffe07b,0x3f7fb9fc,0x3fffe07c,0xbf7fc102,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
+    <freq>30.0</freq>
+    <q>0.9</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.000188759564457,-1.997996906661624,0.9978127245657521,1.9979975750961227,-0.9980008156957109,</dec>
+    <hex>0x3f80062f,0xbfffbe5d,0x3f7f70a8,0x3fffbe62,0xbf7f7cfb,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>65.0</freq>
-    <q>0.7</q>
-    <boost>0.1</boost>
+    <freq>67.0</freq>
+    <q>0.9</q>
+    <boost>0.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000348795269098,-1.9939575741572761,0.9939407386452567,1.9939575741572761,-0.9939756181721664,</dec>
-    <hex>0x3f800125,0xbfff3a00,0x3f7e72e6,0x3fff3a00,0xbf7e7530,</hex>
+    <dec>1.0000559616063658,-1.9951758002581097,0.9951390218726784,1.9951758002581097,-0.9951949834790442,</dec>
+    <hex>0x3f8001d5,0xbfff61ec,0x3f7ec16e,0x3fff61ec,0xbf7ec519,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>3.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000107344119122,-1.9990380850556784,0.9989316260423764,1.999038231831043,-0.9990388233861337,</dec>
+    <hex>0x3f800384,0xbfffe07b,0x3f7fb9fc,0x3fffe07c,0xbf7fc102,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.000107344119122,-1.9990380850556784,0.9989316260423764,1.999038231831043,-0.9990388233861337,</dec>
+    <hex>0x3f800384,0xbfffe07b,0x3f7fb9fc,0x3fffe07c,0xbf7fc102,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
+    <freq>30.0</freq>
+    <q>0.9</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.000188759564457,-1.997996906661624,0.9978127245657521,1.9979975750961227,-0.9980008156957109,</dec>
+    <hex>0x3f80062f,0xbfffbe5d,0x3f7f70a8,0x3fffbe62,0xbf7f7cfb,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>65.0</freq>
-    <q>0.7</q>
-    <boost>0.1</boost>
+    <freq>67.0</freq>
+    <q>0.9</q>
+    <boost>0.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000348795269098,-1.9939575741572761,0.9939407386452567,1.9939575741572761,-0.9939756181721664,</dec>
-    <hex>0x3f800125,0xbfff3a00,0x3f7e72e6,0x3fff3a00,0xbf7e7530,</hex>
+    <dec>1.0000559616063658,-1.9951758002581097,0.9951390218726784,1.9951758002581097,-0.9951949834790442,</dec>
+    <hex>0x3f8001d5,0xbfff61ec,0x3f7ec16e,0x3fff61ec,0xbf7ec519,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Those About to Die</beq_title><beq_alt_title /><beq_sortTitle>those about to die</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Those%20About%20to%20Die%20S1%20(%2B2.5%20gain)%20DD%2B.jpg</beq_pvaURL><beq_edition /><beq_season>1</beq_season><beq_note /><beq_warning /><beq_gain>+2.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Amazon</beq_source><beq_overview>Within the spectacular, complex and corrupt world of gladiatorial sports in Ancient Rome, follow an ensemble of diverse characters across the many layers of Roman society where sports, politics and business intersect and collide.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/posts/63440930/</beq_avs><beq_theMovieDB>218589</beq_theMovieDB><beq_poster>/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Those About to Die</beq_title><beq_alt_title /><beq_sortTitle>those about to die</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Those%20About%20to%20Die%20S1%20(%2B2.5%20gain)%20DD%2B.jpg</beq_pvaURL><beq_edition /><beq_season>1</beq_season><beq_note /><beq_warning /><beq_gain>+2.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Amazon</beq_source><beq_overview>Within the spectacular, complex and corrupt world of gladiatorial sports in Ancient Rome, follow an ensemble of diverse characters across the many layers of Roman society where sports, politics and business intersect and collide.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/posts/63440930/</beq_avs><beq_theMovieDB>218589</beq_theMovieDB><beq_poster>/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
